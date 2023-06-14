@@ -169,9 +169,3 @@ pytest
 <a href="https://github.com/tencent-connect/botpy/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tencent-connect/botpy" />
 </a>
-
-# 加入官方社区
-
-欢迎扫码加入**QQ 频道开发者社区**。
-
-![开发者社区](https://mpqq.gtimg.cn/privacy/qq_guild_developer.png)
